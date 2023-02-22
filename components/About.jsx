@@ -8,7 +8,7 @@ export default function About() {
           About
         </p>
         <p>
-          7 RAJ AIR SQN is the only air wing of National Cadet Corps in Kota Group (Rajasthan Directerote).
+          7 RAJ AIR SQN is the only Air Wing of National Cadet Corps in Kota Group (Rajasthan Directerote).
         </p>
       </div>
     </section>
